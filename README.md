@@ -1,2 +1,0 @@
-# jsWork
-Created with CodeSandbox
